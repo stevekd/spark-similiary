@@ -1,0 +1,4 @@
+[gerrit]
+host=gerrit.bbtree.com
+port=29418
+project=spark-run.git
